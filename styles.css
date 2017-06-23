@@ -16,6 +16,16 @@ form {
   display: block;
 }
 
+#search-input {
+  height: 30px;
+  width: 300px;
+}
+
+.search-button {
+  height: 30px;
+  vertical-align: middle;
+}
+
 .navbar {
   position: fixed;
   background-color: #EEEEEE;
