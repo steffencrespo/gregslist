@@ -1,0 +1,30 @@
+.navbar {
+  background-color: grey;
+  display: inline-block;
+}
+
+.navitem {
+  display: inline-block;
+  list-style-type: none;
+  float: right;
+}
+
+.pagination {
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.submit {
+  background-image: url("./magnifying-glass.png");
+  height: 60px;
+  width: 60px;
+}
+
+.date, .location {
+  color: #939393;
+}
+
+.job {
+  color: blue;
+  font-weight: bold;
+}
