@@ -1,12 +1,23 @@
+h2 {
+  float: left;
+}
+
 .navbar {
-  background-color: grey;
+  position: fixed;
+  background-color: #EEEEEE;
   display: inline-block;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  border-bottom: 1px solid #DDDDDD;
 }
 
 .navitem {
   display: inline-block;
   list-style-type: none;
   float: right;
+  margin: 3px;
 }
 
 .pagination {
