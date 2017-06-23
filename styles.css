@@ -39,12 +39,6 @@ form {
   display: inline-block;
 }
 
-.submit {
-  background-image: url("./magnifying-glass.png");
-  height: 60px;
-  width: 60px;
-}
-
 .date, .location {
   color: #939393;
 }
