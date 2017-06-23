@@ -8,6 +8,14 @@ h2 {
   float: left;
 }
 
+form {
+  display: block;
+}
+
+#search-form label {
+  display: block;
+}
+
 .navbar {
   position: fixed;
   background-color: #EEEEEE;
