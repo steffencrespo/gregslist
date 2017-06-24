@@ -45,8 +45,22 @@ form {
 }
 
 .pagination {
+  height: 30px;
+  margin-top: 30px;
   border: 1px solid black;
   display: inline-block;
+}
+
+.pagination .prev, .next {
+  height: 30px;
+}
+
+.prev {
+  margin-right: -5px;
+}
+
+.next {
+  margin-left: -5px;
 }
 
 .date, .location {
